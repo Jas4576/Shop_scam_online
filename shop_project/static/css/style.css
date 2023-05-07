@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.text-color {
+    color: aqua;
+}
+
+.height {
+    height: 510px;
+}
+
+.footer {
+    min-height: 80px;
+}
+
+.gap-5 {
+    gap: 5px;
+}
+
+.width_order_box {
+    width: 500px;
+    height: 250px;
+}
+
+.order_box_color {
+    color: black;
+}
